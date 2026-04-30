@@ -58,9 +58,4 @@ Sistem ini tidak hanya sekadar mencatat data, melainkan dirancang sebagai pusat 
 *   **Environment:** Docker & Docker Compose (update)
 
 ---
-
-## 🚀 Panduan Instalasi (Docker Environment)
-
-Aplikasi ini sangat mudah dijalankan menggunakan Docker.
-
 url aplikasi http://sikapedu.ct.ws/
