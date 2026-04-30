@@ -1,0 +1,18 @@
+# Aktifkan mod_rewrite
+RewriteEngine On
+
+# Hilangkan ekstensi .php di dalam folder peserta
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^([a-zA-Z0-9_-]+)$ $1.php [L]
+
+# Clean URL: /peserta/dashboard → peserta/dashboard.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ $1.php [L,QSA]
+
+# Jika ingin akses dinamis /peserta/1 → dashboard.php?i=1
+RewriteRule ^([0-9]+)/?$ dashboard.php?i=$1 [L,QSA]
+
+# Nonaktifkan listing isi folder
+Options -Indexes
