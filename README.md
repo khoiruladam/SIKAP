@@ -16,13 +16,6 @@ Sistem ini tidak hanya sekadar mencatat data, melainkan dirancang sebagai pusat 
 
 ---
 
-## ⚡ Akselerasi & Performa Maksimal
-
-*   **100% PHP Native:** Tanpa *overhead* dari *library* atau *framework* raksasa yang tidak perlu. Aplikasi memuat halaman dalam hitungan milidetik dengan konsumsi RAM *server* yang sangat efisien.
-*   **Database Engine Optimation:** Menggunakan **PDO (PHP Data Objects)** untuk seluruh transaksi *database*. Selain memberikan akselerasi eksekusi *query*, sistem ini 100% kebal terhadap ancaman *SQL Injection*.
-
----
-
 ## 🎨 Kenyamanan Antarmuka (UI/UX)
 
 *   📱 **Mobile-First & Responsif:** Tata letak *fluid* yang beradaptasi dengan sempurna—mulai dari layar saku *smartphone* hingga monitor *ultrawide* di ruang manajemen.
@@ -51,7 +44,7 @@ Sistem ini tidak hanya sekadar mencatat data, melainkan dirancang sebagai pusat 
 
 ## 🛠️ Stack Teknologi
 
-*   **Bahasa Pemrograman:** PHP 8.x (Native / Vanilla)
+*   **Bahasa Pemrograman:** PHP, Laravel 13
 *   **Database:** MySQL
 *   **Frontend:** HTML5, CSS3, JavaScript
 *   **Visualisasi Data:** Chart.js
