@@ -44,7 +44,7 @@ Sistem ini tidak hanya sekadar mencatat data, melainkan dirancang sebagai pusat 
 
 ## 🛠️ Stack Teknologi
 
-*   **Bahasa Pemrograman:** PHP, Laravel 13
+*   **Bahasa Pemrograman:** PHP
 *   **Database:** MySQL
 *   **Frontend:** HTML5, CSS3, JavaScript
 *   **Visualisasi Data:** Chart.js
