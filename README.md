@@ -52,10 +52,10 @@ Sistem ini tidak hanya sekadar mencatat data, melainkan dirancang sebagai pusat 
 ## 🛠️ Stack Teknologi
 
 *   **Bahasa Pemrograman:** PHP 8.x (Native / Vanilla)
-*   **Database:** MySQL / MariaDB (Driver PDO)
-*   **Frontend:** HTML5, CSS3 (Custom Framework), Vanilla JavaScript
+*   **Database:** MySQL
+*   **Frontend:** HTML5, CSS3, JavaScript
 *   **Visualisasi Data:** Chart.js
-*   **Environment:** Docker & Docker Compose (update)
+*   **Environment:** Docker
 
 ---
 url aplikasi http://sikapedu.ct.ws/
